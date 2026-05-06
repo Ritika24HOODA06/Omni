@@ -99,7 +99,7 @@ Omni relies on real-time mutations rather than traditional REST patterns.
 
 ### 1. Installation
 ```bash
-git clone https://github.com/yourusername/Omni-desk.git
+git clone https://github.com/Ritika24HOODA06/Omni-desk.git
 cd Omni-desk
 pnpm install
 ```
@@ -135,5 +135,5 @@ pnpm dev
 3. **E2E Resilience**: Expanding Playwright suites to simulate cross-origin iframe handshakes across diverse browser security profiles.
 
 ---
-*Architected and developed with precision by **Yashdeep**.*
+*Architected and developed with precision by **Ritika**.*
 
